@@ -2,7 +2,7 @@
 I'm trying to get as many "Hello World!" programs in different languages as I can into one repo. Currently I have (in the order I added them):
 + Python
 + C#
-+ JavaScript (Node)
++ JavaScript
 + C++
 + HTML
 + PHP
